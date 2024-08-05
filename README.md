@@ -1,4 +1,4 @@
-# Logistica Projeto
+# Logística Projeto
  Projeto Criado no Curso de Power BI do Data Science.<br>
  O projeto tinha como objetivo corrigir problemas presentes em um Dashboard (Salvo como Mini Projeto4-Parte1.pbix):
  <img src="Imagens/Dashboard Original.png" alt="" style="margin-top: 40px; margin-bottom: 40px;">
